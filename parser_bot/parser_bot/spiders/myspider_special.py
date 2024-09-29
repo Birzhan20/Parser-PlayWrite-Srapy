@@ -11,14 +11,21 @@ class KithSpider(scrapy.Spider):
             yield {
                 'color': self.clean_text(product.css('h2.product__color::text').get()),
 
+                # с элемента <span> берет цену
                 'price': self.clean_text(product.css('span[aria-label="current price"]::text').get()),
 
-                # Очистка списка размеров
+                # списком собирает <label> с класса product-swatch__label
                 'size': [self.clean_text(size) for size in response.css('label.product-swatch__label::text').getall()],
 
-                'description': self.clean_text(' '.join(product.css('div.product__editors-note__content *::text').getall())),
+                #  * извлекает текст из все дочерних элементов <span>, <p> и тд.
+                'description': self.clean_text(' '.join(
+                    product.css('div.product__editors-note__content *::text'
+                                ).getall())),
 
-                'details': [self.clean_text(detail) for detail in response.css('div.product-description p::text').getall()],
+                #  списком собирает все <p> из класса product-description и через генератор списка чистится от пробелов
+                'details': [
+                    self.clean_text(detail) for detail in response.css('div.product-description p::text').getall()
+                ],
             }
 
     def clean_text(self, text):
