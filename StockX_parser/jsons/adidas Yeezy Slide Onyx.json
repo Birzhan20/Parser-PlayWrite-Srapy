@@ -1,0 +1,104 @@
+{
+    "id": "HQ6448",
+    "brand": "adidas",
+    "name": "adidas Yeezy Slide Onyx",
+    "description": "First revealed in February 2022 at the Donda 2 listening event in Miami, the adidas Yeezy Slide Onyx features an all-black foam construction with a soft footbed for comfort. At the base, a grooved outsole adds stability and responsiveness.\n<br>\n<br>\nThe adidas Yeezy Slide Onyx released in March of 2022 and retailed for $60.",
+    "price": 86,
+    "currency": "USD",
+    "department": "For Men",
+    "category": "Shoes",
+    "subcategory": "adidas",
+    "product_type": "Yeezy Slide",
+    "sizes": [
+        {
+            "id": 1,
+            "name": "US M 4",
+            "price": 86,
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "name": "US M 5",
+            "price": 90,
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "name": "US M 6",
+            "price": 130,
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "name": "US M 7",
+            "price": 122,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "name": "US M 8",
+            "price": 105,
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "name": "US M 9",
+            "price": 126,
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "name": "US M 10",
+            "price": 145,
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "name": "US M 11",
+            "price": 172,
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "name": "US M 12",
+            "price": 183,
+            "quantity": 1
+        },
+        {
+            "id": 10,
+            "name": "US M 13",
+            "price": 174,
+            "quantity": 1
+        },
+        {
+            "id": 11,
+            "name": "US M 14",
+            "price": 175,
+            "quantity": 1
+        },
+        {
+            "id": 12,
+            "name": "US M 15",
+            "price": 220,
+            "quantity": 1
+        },
+        {
+            "id": 13,
+            "name": "US M 16",
+            "price": 150,
+            "quantity": 1
+        }
+    ],
+    "images": [
+        "https://images.stockx.com/images/adidas-Yeezy-Slide-Black-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&auto=compress&dpr=2&trim=color&updated_at=1646687426&fm=avif&q=60"
+    ],
+    "url": "https://stockx.com/adidas-yeezy-slide-black-onyx",
+    "from": "USA",
+    "details": "Style\n\nHQ6448, Colorway\n\nONYX/ONYX/ONYX, Retail Price\n\n$60, Release Date\n\n05/27/2024",
+    "wearing": "",
+    "washing": "",
+    "composition": "",
+    "store": "Stockx",
+    "image": "https://images.stockx.com/360/adidas-Yeezy-Slide-Black/Images/adidas-Yeezy-Slide-Black/Lv2/img01.jpg?auto=compress&w=576&dpr=2&updated_at=1646687558&h=384&fm=avif&q=60",
+    "color": "Onyx"
+}

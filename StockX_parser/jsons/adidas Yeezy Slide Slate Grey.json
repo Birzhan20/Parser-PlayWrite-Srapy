@@ -1,0 +1,104 @@
+{
+    "id": "ID2350",
+    "brand": "adidas",
+    "name": "adidas Yeezy Slide Slate Grey",
+    "description": "The adidas Yeezy Slide Slate Grey is a collaboration between adidas and Kanye West.<br>​<br>​The Slide Slate Grey adidas Yeezy comes in a slate grey color palette. The shoe features an upper constructed from a single piece of molded EVA foam, offering a lightweight and durable design. The slide's design features strategic cutouts and a breathable lining. The slide's outsole features a textured pattern that provides traction and stability. The Yeezy Slide features an effortless slip-on design for easy wear and removal.<br>​<br>​What we love about the adidas Yeezy Slide Slate Grey is its minimalist and sleek design. The slide is crafted with a one-piece construction, featuring a soft and comfortable foam compound for the upper, while the Slate Grey colorway adds a versatile and understated aesthetic. The adidas Yeezy Slide Slate Grey was released in 2023, and sold for a retail price of $70.",
+    "price": 81,
+    "currency": "USD",
+    "department": "For Men",
+    "category": "Shoes",
+    "subcategory": "adidas",
+    "product_type": "Yeezy Slide",
+    "sizes": [
+        {
+            "id": 1,
+            "name": "US M 4",
+            "price": 81,
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "name": "US M 5",
+            "price": 95,
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "name": "US M 6",
+            "price": 117,
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "name": "US M 7",
+            "price": 104,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "name": "US M 8",
+            "price": 87,
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "name": "US M 9",
+            "price": 87,
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "name": "US M 10",
+            "price": 105,
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "name": "US M 11",
+            "price": 126,
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "name": "US M 12",
+            "price": 132,
+            "quantity": 1
+        },
+        {
+            "id": 10,
+            "name": "US M 13",
+            "price": 132,
+            "quantity": 1
+        },
+        {
+            "id": 11,
+            "name": "US M 14",
+            "price": 135,
+            "quantity": 1
+        },
+        {
+            "id": 12,
+            "name": "US M 15",
+            "price": 171,
+            "quantity": 1
+        },
+        {
+            "id": 13,
+            "name": "US M 16",
+            "price": 135,
+            "quantity": 1
+        }
+    ],
+    "images": [
+        "https://images.stockx.com/images/adidas-Yeezy-Slide-Slate-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&auto=compress&dpr=2&trim=color&updated_at=1673938237&fm=avif&q=60"
+    ],
+    "url": "https://stockx.com/adidas-yeezy-slide-slate-grey",
+    "from": "USA",
+    "details": "Style\n\nID2350, Colorway\n\nSLATE GREY/SLATE GREY/SLATE GREY, Retail Price\n\n$70, Release Date\n\n03/21/2024",
+    "wearing": "",
+    "washing": "",
+    "composition": "",
+    "store": "Stockx",
+    "image": "https://images.stockx.com/360/adidas-Yeezy-Slide-Slate-Grey/Images/adidas-Yeezy-Slide-Slate-Grey/Lv2/img01.jpg?auto=compress&w=576&dpr=2&updated_at=1673940531&h=384&fm=avif&q=60",
+    "color": "Slate Grey"
+}

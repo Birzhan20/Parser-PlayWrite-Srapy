@@ -1,0 +1,104 @@
+{
+    "id": "ID5103",
+    "brand": "adidas",
+    "name": "adidas Yeezy Slide Dark Onyx",
+    "description": "Step into unparalleled comfort and minimalist style with the adidas Yeezy Slide Dark Onyx. This sleek, monochromatic slide is the epitome of understated luxury, featuring a uniform dark onyx colorway that pairs effortlessly with any casual outfit. The Yeezy Slide's design focuses on simplicity and functionality, offering a sophisticated take on casual footwear.<br><br>Crafted for those who value both style and comfort, the adidas Yeezy Slide Dark Onyx is built with a plush material that molds to the shape of your foot, ensuring all-day comfort. Its minimalist aesthetic is complemented by the slide's practicality, making it the perfect choice for a relaxed day out or a cozy evening at home. The adidas Yeezy Slide has quickly become a staple in the wardrobe of the fashion-forward, thanks to its versatile design and unparalleled comfort.<br><br>Since its release on March 7, 2024, with a retail price of $70, the adidas Yeezy Slide Dark Onyx has established itself as a must-have for sneaker enthusiasts and style mavens alike. Its release has been met with enthusiasm, solidifying its status as a timeless piece of casual footwear. If you're seeking a blend of simplicity, comfort, and style, the adidas Yeezy Slide Dark Onyx is a choice that delivers on all fronts.",
+    "price": 83,
+    "currency": "USD",
+    "department": "For Men",
+    "category": "Shoes",
+    "subcategory": "adidas",
+    "product_type": "Yeezy Slide",
+    "sizes": [
+        {
+            "id": 1,
+            "name": "US M 4",
+            "price": 83,
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "name": "US M 5",
+            "price": 89,
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "name": "US M 6",
+            "price": 107,
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "name": "US M 7",
+            "price": 108,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "name": "US M 8",
+            "price": 97,
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "name": "US M 9",
+            "price": 100,
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "name": "US M 10",
+            "price": 113,
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "name": "US M 11",
+            "price": 115,
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "name": "US M 12",
+            "price": 125,
+            "quantity": 1
+        },
+        {
+            "id": 10,
+            "name": "US M 13",
+            "price": 128,
+            "quantity": 1
+        },
+        {
+            "id": 11,
+            "name": "US M 14",
+            "price": 113,
+            "quantity": 1
+        },
+        {
+            "id": 12,
+            "name": "US M 15",
+            "price": 122,
+            "quantity": 1
+        },
+        {
+            "id": 13,
+            "name": "US M 16",
+            "price": 110,
+            "quantity": 1
+        }
+    ],
+    "images": [
+        "https://images.stockx.com/images/adidas-Yeezy-Slide-Dark-Onyx-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&auto=compress&dpr=2&trim=color&updated_at=1710364038&fm=avif&q=60"
+    ],
+    "url": "https://stockx.com/adidas-yeezy-slide-dark-onyx",
+    "from": "USA",
+    "details": "Style\n\nID5103, Colorway\n\nDARK ONYX/DARK ONYX/DARK ONYX, Retail Price\n\n$70, Release Date\n\n03/07/2024",
+    "wearing": "",
+    "washing": "",
+    "composition": "",
+    "store": "Stockx",
+    "image": "https://images.stockx.com/360/adidas-Yeezy-Slide-Dark-Onyx/Images/adidas-Yeezy-Slide-Dark-Onyx/Lv2/img01.jpg?auto=compress&w=576&dpr=2&updated_at=1710343346&h=384&fm=avif&q=60",
+    "color": "Dark Onyx"
+}
